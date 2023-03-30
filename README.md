@@ -7,4 +7,4 @@ The codes in main.py was run multiple times with different independent variables
 
 The visualizations in plots are the ones that I used to formulate conclusions in Task 3. 
 
-Calculations, thought processes, and details are written in the PDF file
+Calculations, thought processes, and other details can be found in the MCBDD_project1 PDF file and the Excel table. 
